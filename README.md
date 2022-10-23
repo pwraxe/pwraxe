@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Akshay Pawar a Sr. Android Developer at MobiHive Labs London
+- 👀 I’m interested in to explore Android World, To Learn only those stuffs which I liked
+- 🌱 I’m currently learning Data Structure and Algorithm in Kotlin, for preparing for my Dream Company

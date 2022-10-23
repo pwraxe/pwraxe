@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithm in Kotlin, for preparing for my Dream Company
 - ☕️ This Repositories is just for my study purpose so I can collect my code anywhere around the world, and revisit them when required
 
-Total Visits 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/pwraxe/count.svg)
+Visits 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/pwraxe/count.svg)
 
 
 **Back-end**

@@ -30,6 +30,6 @@ Visits 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/pwraxe/count.
 <code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code>
  
 
-[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=pwraxe&show_icons=true&theme=merko)](https://github.com/pwraxe)
+[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=pwraxe&show_icons=true&theme=merko)](https://github.com/pwraxe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwraxe&layout=compact&theme=merko)](https://github.com/pwraxe/github-readme-stats)
 

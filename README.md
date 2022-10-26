@@ -11,6 +11,7 @@ Visits 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/pwraxe/count.
 **Back-end**
 
 <code><img height="50" src="https://developer.android.com/images/cluster-illustrations/kotlin-hero.svg"></code>
+<code><img height="50" src="https://www.oracle.com/oce/press/assets/CONT6C95347B9ECC40CF8E7272A74FD80BDE/native/rc24-java-logo.gif"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ktorio/ktor/main/.github/images/ktor-logo-for-dark.svg"></code>
 
 

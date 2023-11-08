@@ -1,5 +1,3 @@
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
-
 <h1 align="center">Hello there👋, Akshay Pawar here</h1>
 <h3 align="center">Android Kotlin Developer</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pwraxe" alt="pwraxe" /></a> </p>

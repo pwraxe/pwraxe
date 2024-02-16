@@ -9,6 +9,7 @@
 - 📝 I write articles during the study as a note on [compose@pwraxe](https://pwraxe.github.io/compose)
 - 📫 Reach me at **pawarakshay13@gmail.com**
 - ⚡ Fun fact **I’m interested in exploring Android World, To Learn only those stuff that I like**
+- :love_you_gesture: Apart from Code, There is another purpose of this account
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
